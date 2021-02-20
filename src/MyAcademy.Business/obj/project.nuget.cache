@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "QgMGnn3XzTprudU43u0iSJHahfhEfTZhX781EzJT3SHDY3t5WfliDSZCdLlEpXMGQbGJSiACtbGibMFSQjNtgA==",
+  "dgSpecHash": "u8L4iwsoSZc3hhQmURLhntXfBzkZjJWZijHdKo6jFV1IcSNiAHssE53GN4nhpqD8GYNXQtfJ95w0/EzVCqEuew==",
   "success": true,
   "projectFilePath": "C:\\Users\\lucas\\Desktop\\Joao\\MyAcademy\\src\\MyAcademy.Business\\MyAcademy.Business.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
+    "C:\\Users\\lucas\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
+  ],
   "logs": []
 }

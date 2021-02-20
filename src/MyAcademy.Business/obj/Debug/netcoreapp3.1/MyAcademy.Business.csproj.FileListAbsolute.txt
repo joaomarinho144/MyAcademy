@@ -1,0 +1,9 @@
+C:\Users\lucas\Desktop\Joao\MyAcademy\src\MyAcademy.Business\bin\Debug\netcoreapp3.1\MyAcademy.Business.deps.json
+C:\Users\lucas\Desktop\Joao\MyAcademy\src\MyAcademy.Business\bin\Debug\netcoreapp3.1\MyAcademy.Business.dll
+C:\Users\lucas\Desktop\Joao\MyAcademy\src\MyAcademy.Business\bin\Debug\netcoreapp3.1\MyAcademy.Business.pdb
+C:\Users\lucas\Desktop\Joao\MyAcademy\src\MyAcademy.Business\obj\Debug\netcoreapp3.1\MyAcademy.Business.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\Joao\MyAcademy\src\MyAcademy.Business\obj\Debug\netcoreapp3.1\MyAcademy.Business.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Joao\MyAcademy\src\MyAcademy.Business\obj\Debug\netcoreapp3.1\MyAcademy.Business.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Joao\MyAcademy\src\MyAcademy.Business\obj\Debug\netcoreapp3.1\MyAcademy.Business.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Joao\MyAcademy\src\MyAcademy.Business\obj\Debug\netcoreapp3.1\MyAcademy.Business.dll
+C:\Users\lucas\Desktop\Joao\MyAcademy\src\MyAcademy.Business\obj\Debug\netcoreapp3.1\MyAcademy.Business.pdb

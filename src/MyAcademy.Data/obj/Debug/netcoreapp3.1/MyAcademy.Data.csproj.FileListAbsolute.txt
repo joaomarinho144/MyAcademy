@@ -1,0 +1,9 @@
+C:\Users\lucas\Desktop\Joao\MyAcademy\src\MyAcademy.Data\bin\Debug\netcoreapp3.1\MyAcademy.Data.deps.json
+C:\Users\lucas\Desktop\Joao\MyAcademy\src\MyAcademy.Data\bin\Debug\netcoreapp3.1\MyAcademy.Data.dll
+C:\Users\lucas\Desktop\Joao\MyAcademy\src\MyAcademy.Data\bin\Debug\netcoreapp3.1\MyAcademy.Data.pdb
+C:\Users\lucas\Desktop\Joao\MyAcademy\src\MyAcademy.Data\obj\Debug\netcoreapp3.1\MyAcademy.Data.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\Joao\MyAcademy\src\MyAcademy.Data\obj\Debug\netcoreapp3.1\MyAcademy.Data.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Joao\MyAcademy\src\MyAcademy.Data\obj\Debug\netcoreapp3.1\MyAcademy.Data.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Joao\MyAcademy\src\MyAcademy.Data\obj\Debug\netcoreapp3.1\MyAcademy.Data.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Joao\MyAcademy\src\MyAcademy.Data\obj\Debug\netcoreapp3.1\MyAcademy.Data.dll
+C:\Users\lucas\Desktop\Joao\MyAcademy\src\MyAcademy.Data\obj\Debug\netcoreapp3.1\MyAcademy.Data.pdb
